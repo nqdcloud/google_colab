@@ -8,7 +8,7 @@
 
 Nhấn vào nút bên dưới để mở và chạy trực tiếp trên Google Colab mà không cần cài đặt phức tạp trên máy:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/nqddcloud/google_colab/blob/main/AI_Remove_Watermark_Icon.ipynb](https://colab.research.google.com/github/nqdcloud/google_colab/blob/main/AI_Remove_Watermark_Icon.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nqdcloud/google_colab/blob/main/AI_Remove_Watermark_Icon.ipynb))
 
 ---
 
