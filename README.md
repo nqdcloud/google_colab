@@ -31,7 +31,7 @@ Nhấn vào nút bên dưới để mở và chạy trực tiếp trên Google C
 3. **Chạy chương trình**:
    - Nhấn `Runtime` ➔ `Run all` (hoặc bấm tổ hợp phím `Ctrl + F9` trên Windows / `Cmd + F9` trên Mac).
 4. **Trải nghiệm**:
-   - Chờ hệ thống cài đặt môi trường và hiển thị giao diện link thông qua trycloudflare
+   - Chờ hệ thống cài đặt môi trường và hiển thị link truy cập sử dụng ứng dụng
    - Truy cập đường dẫn và ải ảnh lên
    - Chọn khu vực chứa watermark,icon...
    - Bôi đỏ phần diện tích chứa watermark,icon...
