@@ -41,7 +41,7 @@ Nhấn vào nút bên dưới để mở và chạy trực tiếp trên Google C
 
 
 ## ⚠️ Lưu ý & Miễn trừ trách nhiệm
-- Các với xử lý treo nhiều ảnh cần cùng kích cỡ cùng vị trí watermark,icon
+- Các với xử lý treo nhiều ảnh cần cùng khung hình  và  cùng vị trí watermark,icon....
 - Công cụ được tạo ra nhằm mục đích học tập, nghiên cứu và phục vụ công việc hợp pháp (như xóa watermark trên ảnh cá nhân do chính bạn tạo ra).
 - Vui lòng tôn trọng quyền sở hữu trí tuệ và bản quyền tác giả của các hình ảnh.
 
