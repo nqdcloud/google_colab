@@ -19,7 +19,7 @@ Nhấn vào nút bên dưới để mở và chạy trực tiếp trên Google C
 -  **Dễ dàng sử dụng:** Giao diện trực quan, thao tác đơn giản chỉ với vài cú click chuột.
 -  **Dễ dàng chia sẻ:** Sử dụng đường hầm truycloudflare.com có thể truy cập mọi máy tính mà không cần đăng nhập
 -  **Dễ dàng backup:** Hình ảnh kết quả sẽ lưu tại image_results chỉ cần mount google drive vào thư mục thì kết quả sẽ lưu tại google drive cá nhân
--  **Xử lý nhiều ảnh:** Có thể xử lý nhiêu ảnh treo
+-  **Xử lý nhiều ảnh:** Có thể treo nhiều ảnh
 ---
 
 ## 🛠️ Hướng dẫn sử dụng
