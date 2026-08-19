@@ -1,6 +1,6 @@
 # 🎨 AI Remove Watermark & Icon Google Colab
 
-> Công cụ sử dụng trí tuệ nhân tạo (AI) giúp xóa watermark, logo, chữ, và vật thể thừa trên hình ảnh một cách tự động, giữ nguyên chất lượng ảnh gốc trực tiếp trên Google Colab.
+> Công cụ giúp xóa watermark, logo, icon nhưng vẫn giữ nguyên chất lượng ảnh gốc trực tiếp trên Google Colab.
 
 ---
 
