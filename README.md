@@ -44,6 +44,6 @@ Nhấn vào nút bên dưới để mở và chạy trực tiếp trên Google C
 - Vơi các phiên xử lý treo nhiều ảnh cùng lúc thì các hình ảnh cần cùng khung hình và vị trí của icon, watermark....
 - Công cụ được tạo ra nhằm mục đích học tập, nghiên cứu và phục vụ công việc hợp pháp (như xóa watermark trên ảnh cá nhân do chính bạn tạo ra).
 - Vui lòng tôn trọng quyền sở hữu trí tuệ và bản quyền tác giả của các hình ảnh khác
-
+- Google Colab chỉ cho thời lượng GPU nhất định trong một khoảng thời gian, nên khi xử lý xong thì vào quản lý phiên ngắt kết nối môi trường để tránh lãng phí tài nguyên (Tệp kết quả sẽ lưu tại google drive sẽ không mất)
 ---
 
